@@ -37,7 +37,10 @@ The results of this analysis below:
        	  -Technique Leader: 77
     		  -Assistant Engineer: 73
     		  -Manager: 0
-~insert photos with code
+
+![total_retiring_emp](https://user-images.githubusercontent.com/114610539/202871553-793e11d7-ca76-4150-96cf-1e65d3bc8d75.png)
+![total_eligible_emp](https://user-images.githubusercontent.com/114610539/202871562-50cf2b78-4b53-496e-a4f8-7bbe6b696a43.png)
+![count_of_roles](https://user-images.githubusercontent.com/114610539/202871567-a1dbf214-6ec4-4fa8-b9db-4b21fc252a97.png)
 
 
 ## Summary
@@ -51,10 +54,12 @@ To further the analysis and provide better clarity I created 2 additional tables
 
 
 	-This table will allow leadership to see the total quantity of eligible employees by title. This could help align staffing in those specific roles.
+![emp_dpt](https://user-images.githubusercontent.com/114610539/202871581-adfef709-1ec8-4b94-a4c0-c6e567a41688.png)
 
-~insert output photo here
+
 
 	-This table will allow leadership to filter eligible employees specifically by title and department. 
+![eligible_emp_dept](https://user-images.githubusercontent.com/114610539/202871589-8cb057b0-98c9-44be-9ee5-f1ca3e5690e9.png)
 
-~insert output photo here
+
 
